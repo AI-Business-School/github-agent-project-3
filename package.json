@@ -1,0 +1,21 @@
+{
+  "name": "simple-contact-form",
+  "version": "1.0.0",
+  "description": "A simple contact form built with HTML and CSS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "contact-form",
+    "html",
+    "css",
+    "responsive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
